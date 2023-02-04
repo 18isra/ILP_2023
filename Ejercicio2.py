@@ -11,7 +11,7 @@ PI=3.14
 
 
 #procesos 
-area= (PI*radio)**2
+area= (PI)*(radio**2)
 perimetro= 2*PI*radio
 
 #salidas 
